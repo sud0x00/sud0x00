@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I hate these UwU
 - ⚡ Fun fact: As you know, madness is like gravity...all it takes is a little push. If you’re good at something, never do it for free.
 - LinkedIn : https://www.linkedin.com/in/sudhanva-m-55a202225/
-[![sud's GitHub stats](https://github-readme-stats.vercel.app/api?username=sud0x00)]
+
+
+
+
+(https://github-readme-stats.vercel.app/api?username=sud0x00)
