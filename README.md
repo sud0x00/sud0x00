@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Arch wsl2 gui
 - 🌱 I’m currently learning solidity and smart contracts
-- 👯 I’m looking to collaborate on NLP , Cybersecurity and other tech related stuff
+- 👯 I’m looking to collaborate on NLP , Cybersecurity , Blockchain , Quantum Computing and other tech related stuff
 - 🤔 I’m looking for help with anything !
 - 💬 Ask me about tech , chess , anime , movies , games , origami , japanese culture , japanese , history
 - 📫 How to reach me: : you can't 
