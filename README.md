@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Arch wsl2 gui
-- 🌱 I’m currently learning solidity and smart contracts
+- 🔭 I’m currently working on a lot of stuff. I've got so much on my plate at this moment that I'm confused what to work on. Feel free to disturb me.
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on NLP , Cybersecurity , Computer Vision , Quantum Computing and other tech related stuff
 - 🤔 I’m looking for help with anything !
 - 💬 Ask me about tech , chess , anime , movies , games , origami , japanese culture , history
