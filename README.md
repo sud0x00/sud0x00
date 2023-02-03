@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: : you can't 
 - 😄 Pronouns: I hate these UwU
 - ⚡ Fun fact: As you know, madness is like gravity...all it takes is a little push. If you’re good at something, never do it for free.
-- LinkedIn : https://www.linkedin.com/in/sudhanva-m-55a202225/
+- LinkedIn : [https://www.linkedin.com/in/sudhanva04102002/](https://www.linkedin.com/in/sudhanva04102002/)
 
 
 
