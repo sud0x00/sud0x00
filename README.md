@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - LinkedIn : [https://www.linkedin.com/in/sudhanva04102002/](https://www.linkedin.com/in/sudhanva04102002/)
 
 
-![](https://komarev.com/ghpvc/?username=labhayl&label=PROFILE+VIEWS&color=blue)
+![](https://komarev.com/ghpvc/?username=sud0x00&label=PROFILE+VIEWS&color=blue)
 
 [![test](https://github-readme-stats.vercel.app/api?username=sud0x00)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sud0x00)](https://github.com/anuraghazra/github-readme-stats)
