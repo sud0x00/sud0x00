@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 
 [![test](https://github-readme-stats.vercel.app/api?username=sud0x00)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sud0x00)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sud0x00&" alt="sud0x00" /></p>
+
+
+<h1>“I Simply Am Not There”</h1>
+<img align="right" alt="bateman" width="400" src="https://media.tenor.com/5lLcKZgmIhgAAAAC/american-psycho-patrick-bateman.gif"/>
