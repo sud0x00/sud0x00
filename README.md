@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <img width="100" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="100" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" />
 </p>
-          
+
           
           
           
