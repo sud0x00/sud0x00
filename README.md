@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sudhanva0asvl@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZL_05cv4O0ti3o9bDFDO7uo3_6-WwdJA/view?usp=share_link](https://drive.google.com/file/d/1ZL_05cv4O0ti3o9bDFDO7uo3_6-WwdJA/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://github.com/sud0x00/sud0x00/blob/main/SudAth_resume_updated_2-11-23.pdf)
 
 - ⚡ Fun fact **If you’re good at something, never do it for free.**
 
@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sud0x00&" alt="sud0x00" /></p>
 
 <h1>“I Simply Am Not There”</h1>
-<img src="https://64.media.tumblr.com/2722f4d2e81358ebf46a32957f285a09/798f517135e5e641-9e/s500x750/1acaab96a5b1f1b74782d0193432235915a95c4c.gifv" width="500" height="370" data-highres="https://64.media.tumblr.com/2722f4d2e81358ebf46a32957f285a09/798f517135e5e641-9e/s540x810/da40beca1fc871b654bb775f1dff342661778c3e.gifv" data-width="540" data-height="400">
+<img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
