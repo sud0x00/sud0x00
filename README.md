@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sud0x00&" alt="sud0x00" /></p>
 
 <h1>“I Simply Am Not There”</h1>
-<img align="right" alt="bateman" width="400" src="https://media.tenor.com/5lLcKZgmIhgAAAAC/american-psycho-patrick-bateman.gif"/>
+<img align="right" alt="bateman" width="400" src="https://64.media.tumblr.com/2722f4d2e81358ebf46a32957f285a09/798f517135e5e641-9e/s540x810/da40beca1fc871b654bb775f1dff342661778c3e.gif"/>
