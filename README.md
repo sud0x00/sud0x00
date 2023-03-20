@@ -37,10 +37,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sud0x00&" alt="sud0x00" /></p>
 
-<h1>“I Simply Am Not There”</h1>
-<img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
-
 ![TaxiDriver](https://media.tenor.com/lCZIj8vzaLUAAAAC/taxi-robertdeniro.gif)
 
+
+
+<h1>“I Simply Am Not There”</h1>
+<img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
 
 ![patrick](https://media.tenor.com/6XvgsGoiYusAAAAC/american-psycho-american-psycho-panic.gif)
