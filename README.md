@@ -40,5 +40,7 @@
 <h1>“I Simply Am Not There”</h1>
 <img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
 
-![american-psycho](https://tenor.com/search/american+psycho-gifs)
-![TaxiDriver](https://tenor.com/view/taxi-robertdeniro-gif-4714238)
+![TaxiDriver](https://media.tenor.com/lCZIj8vzaLUAAAAC/taxi-robertdeniro.gif)
+
+
+![patrick](https://media.tenor.com/6XvgsGoiYusAAAAC/american-psycho-american-psycho-panic.gif)
