@@ -40,6 +40,5 @@
 <h1>“I Simply Am Not There”</h1>
 <img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
 
-<a href="https://tenor.com/view/american-psycho-american-psycho-panic-american-psycho-harley-american-psycho-sit-gif-24725316">American Psycho American Psycho Panic GIF</a>from <a href="https://tenor.com/search/american+psycho-gifs">American Psycho GIFs</a>
-
-<a href="https://tenor.com/view/taxi-robertdeniro-gif-4714238">Taxi Driver GIF</a>from <a href="https://tenor.com/search/taxi-gifs">Taxi GIFs</a>
+![american-psycho](https://tenor.com/search/american+psycho-gifs)
+![TaxiDriver](https://tenor.com/view/taxi-robertdeniro-gif-4714238)
