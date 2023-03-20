@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **anything !**
 
-- 👨‍💻 All of my projects are available at [under.construction](under.construction)
+- 👨‍💻 My portfolio is available at [https://sud0x00.github.io/my-portfolio/](https://sud0x00.github.io/my-portfolio/)
 
 - 💬 Ask me about **tech , chess , anime , movies , games , origami , japanese culture , history**
 
