@@ -2,7 +2,7 @@
 <h3 align="center">CS Student who’s interested in tech and math. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Ready to tackle strenuous projects by coming up with esoteric and abstruse ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud0x00&label=Profile%20views&color=0e75b6&style=flat" alt="sud0x00" /> </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sud0x00" alt="sud0x00" /></a> </p>
 
 - 🔭 I’m currently working on **Restoration of Sharada Script**
