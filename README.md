@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sudhanva0asvl@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/sud0x00/sud0x00/blob/main/SudAth_resume_updated_3-2-23.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/sud0x00/sud0x00/blob/main/SudAth_resume_updated_4-7-23.pdf)
 
 - ⚡ Fun fact **If you’re good at something, never do it for free.**
 
