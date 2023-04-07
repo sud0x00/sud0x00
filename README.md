@@ -2,7 +2,11 @@
 <h3 align="center">CS Student who’s interested in tech and math. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Ready to tackle strenuous projects by coming up with esoteric and abstruse ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud0x00&label=Profile%20views&color=0e75b6&style=flat" alt="sud0x00" /> </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sud0x00" alt="sud0x00" /></a> </p>
 
 - 🔭 I’m currently working on **Restoration of Sharada Script**
@@ -44,10 +48,6 @@
 
 <h1>“I Simply Am Not There”</h1>
 <img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
-
-![patrick](https://media.tenor.com/6XvgsGoiYusAAAAC/american-psycho-american-psycho-panic.gif)
-
-![](https://64.media.tumblr.com/tumblr_lrlibn2CDU1ql8i93o1_250.gifv) ![](https://64.media.tumblr.com/tumblr_lrlibn2CDU1ql8i93o2_250.gifv) ![](https://64.media.tumblr.com/tumblr_lrlibn2CDU1ql8i93o3_500.gifv)
 
 
 <h2> I'm open to collaborate !!! <h2>
