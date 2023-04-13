@@ -48,10 +48,3 @@
 
 <h1>“I Simply Am Not There”</h1>
 <img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
-
-
-<h2> I'm open to collaborate !!! <h2>
-  
- ![](https://media.giphy.com/media/20KNpHp9lsi15i9uga/giphy.gif)
- ![](https://media.giphy.com/media/xl2FT8v7hWNHPZBFSw/giphy.gif) 
- ![](https://media.giphy.com/media/2ij0s9Q5folTsJiZib/giphy.gif)
