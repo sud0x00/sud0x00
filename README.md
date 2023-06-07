@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **NLP , Cybersecurity , Computer Vision , Quantum Computing and other tech related stuff**
 
-- 🤝 I’m looking for help with **anything !**
-
 - 👨‍💻 My portfolio is available at [https://sud0x00.github.io/my-portfolio/](https://sud0x00.github.io/my-portfolio/)
 
 - 💬 Ask me about **tech , chess , anime , movies , games , origami , japanese culture , history**
