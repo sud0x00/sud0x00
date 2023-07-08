@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud0x00&label=Profile%20views&color=0e75b6&style=flat" alt="sud0x00" /> </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)
+<!--- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.) -->
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sud0x00" alt="sud0x00" /></a> </p>
 
 - 🔭 I’m currently working on **Restoration of Sharada Script**
 
-- 🌱 I’m currently learning **Tesseract-OCR**
+- 🌱 I’m currently learning **GluonCV**
 
-- 👯 I’m looking to collaborate on **NLP , Cybersecurity , Computer Vision , Quantum Computing and other tech related stuff**
+- 👯 I’m looking to collaborate on **NLP , Computer Vision/Pattern Recognition , Cognitive Computing and other tech related stuff**
 
 - 👨‍💻 My portfolio is available at [https://sud0x00.github.io/my-portfolio/](https://sud0x00.github.io/my-portfolio/)
 
@@ -43,9 +43,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sud0x00&" alt="sud0x00" /></p>
 
-![TaxiDriver](https://media.tenor.com/lCZIj8vzaLUAAAAC/taxi-robertdeniro.gif)
+
+<!---
+# ![TaxiDriver](https://media.tenor.com/lCZIj8vzaLUAAAAC/taxi-robertdeniro.gif)
 
 
 
-<h1>“I Simply Am Not There”</h1>
-<img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
+# <h1>“I Simply Am Not There”</h1>
+ <img src="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" width="500" height="370" data-highres="https://github.com/sud0x00/sud0x00/blob/main/american_psycho.gif?raw=true" data-width="540" data-height="400">
+-->
