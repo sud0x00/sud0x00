@@ -7,7 +7,6 @@
 <!--- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.) -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sud0x00" alt="sud0x00" /></a> </p>
 
 - 🔭 I’m currently working on **Restoration of Sharada Script**
 
