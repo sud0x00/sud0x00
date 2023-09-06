@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanva Athreya</h1>
+
+<h2> Try not to stalk my github profile , I have uploaded a lot of garbage on here. My main profile is hidden UwU <h2>
+
 <h3 align="center">CS Student who’s interested in tech and math. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Ready to tackle strenuous projects by coming up with esoteric and abstruse ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sud0x00&label=Profile%20views&color=0e75b6&style=flat" alt="sud0x00" /> </p>
