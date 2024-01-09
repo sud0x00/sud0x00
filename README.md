@@ -7,8 +7,8 @@
 
 <!--- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.) -->
 
-<h3> I'm moving things to this [account](https://github.com/foxHound0x00) -> https://github.com/foxHound0x00,
-I'm trying to keep a more structured github account, with lesser repositories. </h3>
+ I'm moving things to this account [https://github.com/foxHound0x00](https://github.com/foxHound0x00),
+I'm trying to keep a more structured github account, with lesser repositories.
 
 - 👨‍💻 My portfolio is available at [https://sud0x00.github.io/my-portfolio/](https://sud0x00.github.io/my-portfolio/)
 
